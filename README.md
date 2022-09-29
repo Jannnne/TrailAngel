@@ -1,6 +1,6 @@
 # TrailAngel
 Final Thesis Project
-http://jannnn.co/trailangel
+http://jannnne.co/trailangel
 -- git init
 -- git add README.md
 -- git commit -m "first commit"
